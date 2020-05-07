@@ -1,0 +1,19 @@
+{
+  "imagens": [
+      {
+        "img": "assets/images/confra.jpeg",
+        "descricao": "Confraternização da SUBTI.",
+        "liked": "0"
+      },
+      {
+        "img": "assets/images/entregaportal.jpeg",
+        "descricao": "Entrega do novo portal.",
+        "liked": "0"
+      },
+      {
+        "img": "assets/images/balancoresultados.jpeg",
+        "descricao": "Resultados 2019.",
+        "liked": "0"
+      }
+  ]
+}
